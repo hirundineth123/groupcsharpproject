@@ -1,6 +1,6 @@
-using StudentManagementSystem.Forms;
 using System;
 using System.Windows.Forms;
+using StudentManagementSystem.Forms;
 
 namespace StudentManagementSystem
 {
@@ -14,7 +14,7 @@ namespace StudentManagementSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainMenuForm());
+            Application.Run(new LoginForm());
         }
     }
 }
