@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 using System.Windows.Forms;
 
 namespace StudentManagementSystem.Forms
@@ -15,6 +8,11 @@ namespace StudentManagementSystem.Forms
         public LoginForm()
         {
             InitializeComponent();
+        }
+
+        private void BtnLogin_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Login functionality to be implemented.", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
