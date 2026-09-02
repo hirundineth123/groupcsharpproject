@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\asus tuf\\documents\\github\\csharpprogramming\\windows forms applications\\studentmanagementsystem\\studentmanagementsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\asus tuf\\documents\\github\\csharpprogramming\\windows forms applications\\studentmanagementsystem\\studentmanagementsystem\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\asus tuf\\documents\\github\\csharpprogramming\\windows forms applications\\studentmanagementsystem\\studentmanagementsystem\\core\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\core\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\asus tuf\\documents\\github\\csharpprogramming\\windows forms applications\\studentmanagementsystem\\studentmanagementsystem\\core\\exceptions\\appexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF6D187-2901-440C-8A86-E6829D82533F}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\core\\exceptions\\appexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:15.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Core\\Models\\User.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:00.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Core\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Core\\Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Core\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Core\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:39:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Core\\Exceptions\\AppExceptions.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Core\\Exceptions\\AppExceptions.cs",
+              "ToolTip": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\CSharpProgramming\\Windows Forms Applications\\StudentManagementSystem\\StudentManagementSystem\\Core\\Exceptions\\AppExceptions.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Core\\Exceptions\\AppExceptions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:39:13.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
