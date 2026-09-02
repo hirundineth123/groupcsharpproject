@@ -41,6 +41,7 @@
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
@@ -49,22 +50,46 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Core\Data\CourseRepository.cs" />
     <Compile Include="Core\Data\DatabaseHelper.cs" />
+    <Compile Include="Core\Data\EnrollmentRepository.cs" />
+    <Compile Include="Core\Data\StudentRepository.cs" />
     <Compile Include="Core\Exceptions\AppExceptions.cs" />
+    <Compile Include="Core\Models\Course.cs" />
+    <Compile Include="Core\Models\Person.cs" />
+    <Compile Include="Core\Models\Student.cs" />
     <Compile Include="Core\Models\User.cs" />
+    <Compile Include="Forms\CourseEnrollmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CourseEnrollmentForm.Designer.cs">
+      <DependentUpon>CourseEnrollmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CourseManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CourseManagementForm.Designer.cs">
+      <DependentUpon>CourseManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StudentRecordsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StudentRecordsForm.Designer.cs">
+      <DependentUpon>StudentRecordsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\RegisterForm.cs">
+    <Compile Include="Forms\MainMenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\RegisterForm.Designer.cs">
-      <DependentUpon>RegisterForm.cs</DependentUpon>
+    <Compile Include="Forms\MainMenuForm.Designer.cs">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -91,9 +116,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Content Include="Resources\logo.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <None Include="Core\Data\DatabaseSetup.sql" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Core\Interfaces\" />

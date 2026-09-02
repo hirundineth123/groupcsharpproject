@@ -1,14 +1,13 @@
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SqlClient.dll
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SqlClient.xml
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentM.D74F523C.Up2Date
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\bin\Debug\Resources\logo.png
-C:\Users\ASUS TUF\Documents\GitHub\CSharpProgramming\Windows Forms Applications\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.LoginForm.resources
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentM.D74F523C.Up2Date
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Adolf.H\source\repos\hirundineth123\groupcsharpproject\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
